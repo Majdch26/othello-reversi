@@ -1,0 +1,5 @@
+build/
+bin/
+saves/*.txt
+*.o
+.DS_Store
